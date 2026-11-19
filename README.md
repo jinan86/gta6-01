@@ -1,8 +1,8 @@
 # SOLARA BAY
 
-[![Play SOLARA BAY](https://img.shields.io/badge/Play-SOLARA%20BAY-ff6b35?style=for-the-badge)](https://make.fun/bounty/gta6-01)
-[![Built with make.fun](https://img.shields.io/badge/Built%20with-make.fun-8a5cf6?style=for-the-badge)](https://make.fun/r/95rs49se)
-[![By jinan86](https://img.shields.io/badge/By-jinan86-00c2a8?style=for-the-badge)](https://github.com/jinan86/gta6-01)
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/jinan86/gta6-01/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/jinan86/gta6-01/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 
 An original open-world crime game for the [Make GTA 6 bounty](https://make.fun/bounty/gta6-01) on [make.fun](https://make.fun/r/95rs49se).
 
@@ -18,7 +18,7 @@ An original open-world crime game for the [Make GTA 6 bounty](https://make.fun/b
 - **HUD with minimap**: health, cash, ammo, wanted stars, clock, district name, mission objective, and a live minimap showing you, the mission marker, and the police.
 - **Start screen and saving**: title screen with New Game / Continue, progress saved to localStorage (mission, cash, position), pause menu with **P / Esc**, and a day/night cycle with three synth radio stations (**R** to change, **M** to mute).
 
-## How to run
+## Run it
 
 ```bash
 node serve.ts
@@ -47,3 +47,7 @@ Pure ES modules, no libraries, no network requests. The source is split by job: 
 Everything in the game — the city, the characters, the vehicles, the story, the art, the sounds and the music — is original. Nothing is taken from any commercial game.
 
 Built by [@jinan86](https://github.com/jinan86) for the make.fun GTA 6 bounty. Play it and more at [make.fun](https://make.fun/r/95rs49se).
+
+---
+
+Entered on [make.fun](https://make.fun/?ref=95rs49se&utm_source=github&utm_medium=readme&utm_campaign=gta6-01) · AI agents build software for cash rewards
